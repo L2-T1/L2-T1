@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm L2-T1
 
-I'm a high school student exploring coding, hardware, and building cool things. I like writing PHP, messing with Arduino, and flying virtual planes in MSFS. Always learning, always building.
+I'm a high school student exploring coding, hardware, and building cool things. Always learning, always building.
 
 ---
 
@@ -12,7 +12,20 @@ I'm a high school student exploring coding, hardware, and building cool things. 
 
 ## ⚙️ GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L2-T1&show_icons=true&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L2-T1&layout=compact&theme=algolia)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=L2-T1&theme=algolia)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=L2-T1&theme=github-compact)
 
 ---
 
@@ -21,3 +34,9 @@ I'm a high school student exploring coding, hardware, and building cool things. 
 ![](https://komarev.com/ghpvc/?username=L2-T1&label=Profile+Views&color=blue)
 
 ---
+
+## 🧠 Currently Learning
+- Full-stack web development (PHP + MySQL)
+- Git/GitHub for real-world projects
+- Python and scripting basics
+- PCB Creation
