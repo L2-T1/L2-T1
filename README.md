@@ -12,7 +12,6 @@ I'm a high school student exploring coding, hardware, and building cool things. 
 
 ## ⚙️ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L2-T1&show_icons=true&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L2-T1&layout=compact&theme=algolia)
 
 ---
