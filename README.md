@@ -16,18 +16,6 @@ I'm a high school student exploring coding, hardware, and building cool things. 
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=L2-T1&theme=algolia)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=L2-T1&theme=github-compact)
-
----
-
 ## 👁️ Profile Views
 
 ![](https://komarev.com/ghpvc/?username=L2-T1&label=Profile+Views&color=blue)
